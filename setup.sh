@@ -203,7 +203,7 @@ gg="AM"
 fi
 curl -sS ifconfig.me > /etc/myipvps
 echo " "
-echo "=====================-[ SCRIPT ARTA MAULANA ]-===================="
+echo "=====================-[ SCRIPT ANDY YUDA ]-===================="
 echo ""
 echo "------------------------------------------------------------"
 echo ""

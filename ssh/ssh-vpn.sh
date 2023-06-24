@@ -305,6 +305,7 @@ wget -O about "https://raw.githubusercontent.com/artanodrop/v4/main/menu/about.s
 wget -O auto-reboot "https://raw.githubusercontent.com/artanodrop/v4/main/menu/auto-reboot.sh"
 wget -O restart "https://raw.githubusercontent.com/artanodrop/v4/main/menu/restart.sh"
 wget -O bw "https://raw.githubusercontent.com/artanodrop/v4/main/menu/bw.sh"
+wget -O up "https://raw.githubusercontent.com/Andyyuda/v4/main/up.sh"
 
 # change port
 wget -O port-ssl "https://raw.githubusercontent.com/artanodrop/v4/main/port/port-ssl.sh"
@@ -354,6 +355,7 @@ chmod +x about
 chmod +x auto-reboot
 chmod +x restart
 chmod +x bw
+chmod +x up
 
 chmod +x port-ssl
 chmod +x port-ovpn

@@ -150,7 +150,7 @@ echo -e "$green      Install SSH / WS               $NC"
 echo -e "\e[33m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
 sleep 2
 clear
-wget https://raw.githubusercontent.com/Andyyuda/v1/main/ssh/ssh-vpn.sh && chmod +x ssh-vpn.sh && ./ssh-vpn.sh
+wget https://raw.githubusercontent.com/Andyyuda/1/main/ssh/ssh-vpn.sh && chmod +x ssh-vpn.sh && ./ssh-vpn.sh
 ### Pasang Rclone
 function pasang_backup() {
     judge "Memasang backup server"
@@ -243,7 +243,7 @@ echo ""
 echo ""
 echo "------------------------------------------------------------"
 echo ""
-echo "===============-[ Script Created By ARTA MAULANA ]-==============="
+echo "===============-[ Script Created By ANDY YUDA ]-==============="
 echo -e ""
 echo ""
 echo "" | tee -a log-install.txt

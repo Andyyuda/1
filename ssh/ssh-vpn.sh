@@ -324,6 +324,7 @@ wget -O restore "https://raw.githubusercontent.com/artanodrop/v4/main/backup/res
 wget -O jam "https://raw.githubusercontent.com/artanodrop/v4/main/jam.sh"
 wget -O user-lock "https://raw.githubusercontent.com/Andyyuda/v4/main/ssh/user-lock.sh"
 wget -O user-unlock "https://raw.githubusercontent.com/Andyyuda/v4/main/ssh/user-unlock.sh"
+wget -O cf "https://raw.githubusercontent.com/Andyyuda/ver3/main/cf.sh"
 
 chmod +x menu
 chmod +x menu-trial
@@ -372,6 +373,7 @@ chmod +x restore
 chmod +x jam
 chmod +x user-lock
 chmod +x user-unlock
+chmod +x cf
 cd
 
 
